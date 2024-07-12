@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Git\\Goalsetter\\Tests\\UpdateToFluenteTests\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9D68B84D-D991-4BD1-8A77-D6CE6ACFEC70}|UpdateToFluenteTests.csproj|d:\\git\\goalsetter\\tests\\updatetofluentetests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D68B84D-D991-4BD1-8A77-D6CE6ACFEC70}|UpdateToFluenteTests.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 791,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\Goalsetter\\Tests\\UpdateToFluenteTests\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Git\\Goalsetter\\Tests\\UpdateToFluenteTests\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T18:35:02.391Z",
-              "EditorCaption": ""
             }
           ]
         },

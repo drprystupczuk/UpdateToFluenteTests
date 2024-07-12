@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdateToFluenteTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbcc5bee4197e72654e89a9c14e9be0231fdbbda")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdateToFluenteTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdateToFluenteTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

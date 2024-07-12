@@ -12,3 +12,4 @@ D:\Git\Goalsetter\Tests\UpdateToFluenteTests\obj\Debug\net8.0\refint\UpdateToFlu
 D:\Git\Goalsetter\Tests\UpdateToFluenteTests\obj\Debug\net8.0\UpdateToFluenteTests.pdb
 D:\Git\Goalsetter\Tests\UpdateToFluenteTests\obj\Debug\net8.0\UpdateToFluenteTests.genruntimeconfig.cache
 D:\Git\Goalsetter\Tests\UpdateToFluenteTests\obj\Debug\net8.0\ref\UpdateToFluenteTests.dll
+D:\Git\Goalsetter\Tests\UpdateToFluenteTests\obj\Debug\net8.0\UpdateToFluenteTests.sourcelink.json

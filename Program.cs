@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 public class TestConverter
 {
@@ -37,22 +36,7 @@ public class TestConverter
     {
         string[] nunitAssertions = new string[]
         {
-            "Assert.That(response, Is.Not.Null);",
-            "Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));",
-            "Assert.That(responseContent.Referrals.IsReferralActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Allowance.IsAllowanceActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Autosave.IsAutosaveActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.CasholaCard.KidEnabled, Is.EqualTo(true));",
-            "Assert.That(responseContent.Quizzes.IsQuizzesActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Shared.IsNotificationCenterActive, Is.EqualTo(false));",
-            "Assert.That(responseContent.CasholaCard.ParentEnabled, Is.EqualTo(false));",
-            "Assert.That(responseContent.Investment.IsInvestmentActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Shared.IsP2pActive, Is.EqualTo(false));",
-            "Assert.That(responseContent.Goalcards.IsGoalcardActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Shared.IsRoundUpActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Games.IsMoneylingoActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Games.IsGamesActive, Is.EqualTo(true));",
-            "Assert.That(responseContent.Allowance.AllowancePaymentSources.First(), Is.EqualTo(EAllowancePaymentSource.Wallet));"
+            //input here
         };
 
         foreach (string nunitAssertion in nunitAssertions)
