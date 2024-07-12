@@ -35,3 +35,5 @@
 /obj/UpdateToFluenteTests.csproj.nuget.g.props
 /obj/UpdateToFluenteTests.csproj.nuget.g.targets
 /.vs/UpdateToFluenteTests/FileContentIndex/5178a863-4b70-4cb5-9e35-500828516aab.vsidx
+/obj/Debug/net8.0/UpdateToFluenteTests.sourcelink.json
+*.vsidx
